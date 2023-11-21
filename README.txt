@@ -1,0 +1,1 @@
+En este proeycto de envio de correos podremos encontrar un script al que la hace falta modificar el correo de origen asi como su codigo de seguridad para poderlo ejecutar, con esas credenciales podremos enviar correos de forma automaizada solo ejecutandolo
